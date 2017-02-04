@@ -24,7 +24,7 @@ github_username: san3091
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: red
+theme_color: black
 gems:
   - jekyll-feed
 exclude:
